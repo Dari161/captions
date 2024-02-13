@@ -19,7 +19,7 @@
  },
  {
   "input": "After all, how many others have earned a place as an iconic album cover?",
-  "translatedText": "Végül is, hány másik érdemelte ki, hogy ikonikus albumborítóként szerepeljen?",
+  "translatedText": "Végül is, mi más érdemelte ki, hogy ikonikus albumborítóként szerepeljen?",
   "model": "DeepL",
   "time_range": [
    15.7,
@@ -28,7 +28,7 @@
  },
  {
   "input": "Sure, some of Pink Floyd's design choices run completely contrary to the actual physics.",
-  "translatedText": "Persze, a Pink Floyd néhány tervezési döntése teljesen ellentétes a tényleges fizikával.",
+  "translatedText": "Persze, Pink Floyd néhány tervezési döntése teljesen ellentétes a tényleges fizikával.",
   "model": "DeepL",
   "time_range": [
    19.8,
@@ -37,7 +37,7 @@
  },
  {
   "input": "Like why did they make the light inside the prism white?",
-  "translatedText": "Például miért tették a prizma belsejében lévő fényt fehérre?",
+  "translatedText": "Például miért fehér a prizma belsejében lévő fény?",
   "model": "DeepL",
   "time_range": [
    24.28,
@@ -91,7 +91,7 @@
  },
  {
   "input": "The reason we use the word refraction instead of, say, the index of slowing, is that if a beam of light enters this glass at an angle, then a consequence of this slowdown is that it bends a little bit, or using the lingo, it refracts.",
-  "translatedText": "Azért használjuk a fénytörés szót, mondjuk, a lassulási index helyett, mert ha egy fénysugár ferdén lép be ebbe az üvegbe, akkor ennek a lassulásnak a következménye az, hogy egy kicsit meghajlik, vagy a szakzsargonnal élve, megtörik.",
+  "translatedText": "Azért használjuk a fénytörés szót, mondjuk a lassulási index helyett, mert ha egy fénysugár ferdén lép be ebbe az üvegbe, akkor ennek a lassulásnak a következménye az, hogy egy kicsit meghajlik, vagy a szakzsargonnal élve, megtörik.",
   "model": "DeepL",
   "time_range": [
    84.22,
@@ -100,7 +100,7 @@
  },
  {
   "input": "And the way my high school physics teacher always explained this was to imagine a tank going from some region where it can travel relatively quickly, like concrete, into something slower, like mud, where if it's coming in at an angle, then as one of its treads hits the slow region first, that tread will be going slower while the other one is faster, causing the whole thing to steer a little bit, until that second tread also enters the mud, then it continues straight, just travelling a little slower.",
-  "translatedText": "A középiskolai fizikatanárom ezt mindig úgy magyarázta, hogy képzeljünk el egy tankot, amint egy olyan területről, ahol viszonylag gyorsan halad, mint a beton, egy lassabb területre, mint a sár, ahol ha ferdén érkezik, akkor ahogy az egyik futófelülete először éri el a lassú területet, az a futófelület lassabban halad, míg a másik gyorsabban, ami az egészet egy kicsit kormányozni fogja, amíg a második futófelület is be nem ér a sárba, majd egyenesen halad tovább, csak egy kicsit lassabban.",
+  "translatedText": "A középiskolai fizikatanárom ezt mindig úgy magyarázta, hogy képzeljünk el egy tankot, amint egy olyan területről, ahol viszonylag gyorsan halad, mint a beton, egy lassabb területre, mint a sár, ahol ha ferdén érkezik, akkor ahogy az egyik futófelülete először éri el a lassú területet, az a futófelület lassabban halad, míg a másik gyorsabban, ami az egészet egy kicsit elkormányozza, amíg a második futófelület is be nem ér a sárba, majd egyenesen halad tovább, csak egy kicsit lassabban.",
   "model": "DeepL",
   "time_range": [
    98.64,
@@ -109,7 +109,7 @@
  },
  {
   "input": "We'll get back to the actual reason for bending in a bit, but at this point the high school physics students typically learn a law known as Snell's law, which specifies exactly how much things bend.",
-  "translatedText": "A hajlítás tényleges okára mindjárt visszatérünk, de ezen a ponton a középiskolás fizikusok általában megtanulják a Snell-törvénynek nevezett törvényt, amely pontosan meghatározza, hogy a dolgok mennyire hajlanak meg.",
+  "translatedText": "A hajlítás tényleges okára mindjárt visszatérünk, de ezen a ponton a középiskolás fizikusok általában megtanulnak egy törvényt, a Snell-törvényt, amely pontosan meghatározza, hogy a dolgok mennyire hajlanak meg.",
   "model": "DeepL",
   "time_range": [
    124.88,
@@ -154,7 +154,7 @@
  },
  {
   "input": "Now most of the light that you see is not a clean pure sine wave, in particular the white light coming from the sun is not a clean sine wave, it's something much messier, but it can be expressed as a sum of a bunch of clean sine waves, each one corresponding to a pure spectral color.",
-  "translatedText": "A legtöbb fény, amit látunk, nem tiszta, tiszta szinuszhullám, különösen a Napból érkező fehér fény nem tiszta szinuszhullám, hanem valami sokkal rendezetlenebb, de kifejezhető egy csomó tiszta szinuszhullám összegeként, amelyek mindegyike egy-egy tiszta színspektrumnak felel meg.",
+  "translatedText": "A legtöbb fény amit látunk nem tiszta szinuszhullám, különösen a Napból érkező fehér fény nem tiszta szinuszhullám, hanem valami sokkal rendezetlenebb, de kifejezhető egy csomó tiszta szinuszhullám összegeként, amelyek mindegyike egy-egy tiszta színspektrumnak felel meg.",
   "model": "DeepL",
   "time_range": [
    172.98,
@@ -172,7 +172,7 @@
  },
  {
   "input": "So that is the standard explanation, and it's not wrong per se, it's just that all of the key components are handed down from on high.",
-  "translatedText": "Ez tehát a szokásos magyarázat, és ez önmagában nem helytelen, csak az a helyzet, hogy az összes kulcselemet a magasból adják át.",
+  "translatedText": "Ez tehát a szokásos magyarázat, és ez önmagában nem helytelen, csak az a helyzet, hogy az összes kulcselem magyarázatát kihagyják.",
   "model": "DeepL",
   "time_range": [
    198.62,
@@ -208,7 +208,7 @@
  },
  {
   "input": "Is that just a coincidence, or is it necessary?",
-  "translatedText": "Ez csak véletlen egybeesés, vagy szükség van rá?",
+  "translatedText": "Véletlen lenne ez, vagy szükségszerűség?",
   "model": "DeepL",
   "time_range": [
    217.2,
@@ -217,7 +217,7 @@
  },
  {
   "input": "If you have a sufficiently high standard for explanations, you want both of these facts to feel discovered, rather than feeling like they were handed down.",
-  "translatedText": "Ha a magyarázatokkal szemben elég magas a mérce, akkor azt szeretné, ha mindkét tényt felfedezettnek érezné, nem pedig úgy, mintha csak úgy adták volna át.",
+  "translatedText": "Ha a magyarázatokkal szemben elég magas a mérce, akkor azt szeretnéd, hogy mindkét tényt felfedezettnek érezd, nem azt, mintha csak úgy elmondták volna.",
   "model": "DeepL",
   "time_range": [
    219.68,
@@ -226,7 +226,7 @@
  },
  {
   "input": "The first explanation I saw that started to give this feeling came from the Feynman lectures on the matter, and a lot of what I'd like to do with this video is simply animate a lot of the key points that he makes there.",
-  "translatedText": "Az első magyarázat, amit láttam, ami ezt az érzést keltette, a Feynman-előadásokból származik, és ezzel a videóval nagyrészt egyszerűen animálni szeretném az ott elhangzott kulcspontokat.",
+  "translatedText": "Az első magyarázat, amit láttam, ami ezt az érzést keltette, a Feynman-előadásokból származik, és ezzel a videóval nagyrészt egyszerűen meg szeretném animálni az ott elhangzott kulcspontokat.",
   "model": "DeepL",
   "time_range": [
    227.96,
@@ -235,7 +235,7 @@
  },
  {
   "input": "It involves really digging in to think about each individual wiggling charge in the material, and the propagating light waves caused by each one of those charges, and how all of them superimpose on top of each other.",
-  "translatedText": "Ez azt jelenti, hogy igazán bele kell ásni magunkat az anyagban lévő minden egyes kacskaringózó töltésbe, és az egyes töltések által okozott terjedő fényhullámokba, valamint abba, hogy ezek mindegyike hogyan fedik egymást.",
+  "translatedText": "Ez azt jelenti, hogy igazán bele kell ásni magunkat az anyagban lévő minden egyes kacskaringózó töltésbe, és az egyes töltések által okozott fényhullámokba, valamint abba, hogy ezek mindegyike hogyan fedik egymást.",
   "model": "DeepL",
   "time_range": [
    238.1,
@@ -253,7 +253,7 @@
  },
  {
   "input": "For example, it explains why it has to depend on color, and the key intuition there really comes down to what happens if you're bad at pushing a child on a swing.",
-  "translatedText": "Például megmagyarázza, hogy miért kell a színtől függenie, és a legfontosabb intuíció ott valóban arra vezethető vissza, hogy mi történik, ha rosszul tolsz egy gyereket a hintán.",
+  "translatedText": "Például megmagyarázza, hogy miért kell a színtől függenie, és a legfontosabb intuíció ott valóban arra vezethető vissza, hogy mi történik, ha rosszul löksz egy gyereket a hintán.",
   "model": "DeepL",
   "time_range": [
    256.86,
@@ -289,7 +289,7 @@
  },
  {
   "input": "There was also a question about birefringence, which is where a material can have two different indices of refraction, causing you to c-double when you look through it.",
-  "translatedText": "Volt egy kérdés a kettőstörésről is, ami azt jelenti, hogy egy anyagnak két különböző törésmutatója lehet, ami azt eredményezi, hogy a fényt kétszeresen látjuk, amikor átnézünk rajta.",
+  "translatedText": "Volt egy kérdés a kettőstörésről is, ami azt jelenti, hogy egy anyagnak két különböző törésmutatója lehet, ami azt eredményezi, hogy a fényt kétszeresen látjuk amikor átnézünk rajta.",
   "model": "DeepL",
   "time_range": [
    287.4,
@@ -307,7 +307,7 @@
  },
  {
   "input": "And a couple people also asked about why light slowing down would imply a bending like this, and I agree that deserves a better explanation than the tank analogy.",
-  "translatedText": "És néhányan azt is kérdezték, hogy a fény lassulása miért jelentene ilyen elhajlást, és egyetértek azzal, hogy ez jobb magyarázatot érdemel, mint a tartály hasonlat.",
+  "translatedText": "És néhányan azt is kérdezték, hogy a fény lassulása miért jelentene ilyen elhajlást, és egyetértek azzal, hogy ez jobb magyarázatot érdemel, mint a tank hasonlat.",
   "model": "DeepL",
   "time_range": [
    302.14,
@@ -343,7 +343,7 @@
  },
  {
   "input": "The true effect would be miniscule, but if you'll let me exaggerate it for a moment, what it does is kick back the phase of the wave.",
-  "translatedText": "A valódi hatás elenyésző lenne, de ha megengedik, hogy egy pillanatra eltúlozzam, a hullám fázisát visszaveti.",
+  "translatedText": "A valódi hatás elenyésző lenne, de ha megengedik, hogy egy pillanatra eltúlozzam, azt teszi, hogy a hullám fázisát visszaveti.",
   "model": "DeepL",
   "time_range": [
    339.32,
@@ -352,7 +352,7 @@
  },
  {
   "input": "And maybe it's worth a brief aside to make sure we're all on the same page when it comes to wave terminology.",
-  "translatedText": "És talán érdemes egy rövid kitérőt tenni, hogy megbizonyosodjunk arról, hogy mindannyian ugyanazon az oldalon állunk, amikor a hullámterminológiáról van szó.",
+  "translatedText": "És talán érdemes egy rövid kitérőt tenni, hogy megbizonyosodjunk arról, hogy mindannyian ugyanarról beszélünk, amikor a hullámterminológiáról van szó.",
   "model": "DeepL",
   "time_range": [
    347.42,
@@ -361,7 +361,7 @@
  },
  {
   "input": "If you go and graph the function sine of x, when you put some term in front of it, affecting how high that wave oscillates up and down, that's what we call the amplitude, when you put a term in front of x, this will affect how rapidly it oscillates.",
-  "translatedText": "Ha elmegyünk, és grafikonon ábrázoljuk az x szinusz függvényét, ha valamilyen kifejezést teszünk elé, ami befolyásolja, hogy a hullám milyen magasan rezeg fel és le, ezt nevezzük amplitúdónak, ha egy kifejezést teszünk az x elé, az befolyásolja, hogy milyen gyorsan rezeg.",
+  "translatedText": "Ha grafikonon ábrázoljuk a zinusz x függvényt, ha valamilyen kifejezést teszünk elé, akkor az befolyásolja, hogy a hullám milyen magasra rezeg fel és le, ezt nevezzük amplitúdónak, ha az x elé teszünk egy kifejezést, akkor az befolyásolja, hogy milyen gyorsan rezeg.",
   "model": "DeepL",
   "time_range": [
    351.96,
@@ -370,7 +370,7 @@
  },
  {
   "input": "If this is meant to describe a wave over time, that term would be called the angular frequency, whereas if it's meant to describe a wave over space, that constant would be called the wave number.",
-  "translatedText": "Ha ez egy időbeli hullám leírására szolgál, akkor ezt a kifejezést szögfrekvenciának neveznénk, míg ha egy térbeli hullám leírására, akkor ezt az állandót hullámszámnak neveznénk.",
+  "translatedText": "Ha ez egy időbeli hullám leírására szolgál, akkor ezt a kifejezést szögfrekvenciának neveznénk, míg ha egy térbeli hullám leírására, akkor ezt az állandót hullámszámnak hívjuk.",
   "model": "DeepL",
   "time_range": [
    364.96,
@@ -388,7 +388,7 @@
  },
  {
   "input": "So when I say that our light wave hitting a layer of glass causes its phase to get kicked back, I mean if you take whatever function describes it before it hits the glass, then the function describing it after that looks almost the same, just with a little extra something added to the input of that sine function.",
-  "translatedText": "Amikor tehát azt mondom, hogy a fényhullámunk egy üvegrétegbe ütközve visszarúgja a fázisát, úgy értem, hogy ha veszünk egy függvényt, amely leírja a hullámot, mielőtt az üvegbe ütközik, akkor az azt követő függvény majdnem ugyanúgy néz ki, csak egy kis pluszt adunk hozzá a szinuszfüggvény bemenetéhez.",
+  "translatedText": "Amikor tehát azt mondom, hogy a fényhullámunk egy üvegrétegbe ütközve visszaveti a fázisát, úgy értem, hogy ha veszünk egy függvényt, amely leírja a hullámot, mielőtt az üvegbe ütközik, akkor az azt követő függvény majdnem ugyanúgy néz ki, csak egy kis pluszt adunk hozzá a szinuszfüggvény bemenetéhez.",
   "model": "DeepL",
   "time_range": [
    386.66,
@@ -397,7 +397,7 @@
  },
  {
   "input": "Like I said, in reality that'll be a very small number, something proportional to the infinitesimal thickness of that layer, but I'll keep drawing it as something exaggerated and keep track of the value of that phase kick over here on the left.",
-  "translatedText": "Mint mondtam, a valóságban ez egy nagyon kicsi szám lesz, valami, ami arányos a réteg végtelenül kicsi vastagságával, de továbbra is valami túlzónak fogom rajzolni, és nyomon követem a fázisrúgás értékét itt balra.",
+  "translatedText": "Mint mondtam, a valóságban ez egy nagyon kicsi szám lesz, valami, ami arányos a réteg végtelenül kicsi vastagságával, de továbbra is valami túlzónak fogom rajzolni, és nyomon követem a fázisrúgás értékét itt bal oldalon.",
   "model": "DeepL",
   "time_range": [
    402.3,
@@ -406,7 +406,7 @@
  },
  {
   "input": "Let's say you go and add a bunch of other layers of the glass, each one also applying their own kickback to the phase of the wave.",
-  "translatedText": "Tegyük fel, hogy hozzáadunk egy csomó más üvegréteget, amelyek mindegyike szintén a saját visszarúgását alkalmazza a hullám fázisára.",
+  "translatedText": "Tegyük fel, hogy hozzáadunk még egy csomó üvegréteget, amelyek mindegyike szintén a saját visszarúgását alkalmazza a hullám fázisára.",
   "model": "DeepL",
   "time_range": [
    414.74,
@@ -442,7 +442,7 @@
  },
  {
   "input": "Admittedly, right here it looks all kaleidoscopic and weird, but that's really just because I have a discrete set of layers, each applying an unrealistically large kick.",
-  "translatedText": "Igaz, itt kaleidoszkópszerűen és furcsán néz ki, de ez valójában csak azért van, mert különálló rétegekből áll, amelyek mindegyike irreálisan nagy rúgást alkalmaz.",
+  "translatedText": "Igaz, itt kaleidoszkópszerűen és furcsán néz ki, de ez valójában csak azért van, mert különálló rétegekből áll, amelyek mindegyike irreálisan nagy visszalökést alkalmaz.",
   "model": "DeepL",
   "time_range": [
    436.7,
@@ -469,7 +469,7 @@
  },
  {
   "input": "As I continue this over and over, approaching a situation where you have a continuum of glass, each layer applying just a tiny infinitesimal phase kick, what you end up with is identical to, indistinguishable from, a wave that's simply traveling slower, oscillating up and down with the same frequency, but with a wavelength that's been kind of scrunched up.",
-  "translatedText": "Ahogy ezt újra és újra folytatom, közeledve egy olyan helyzethez, ahol egy üveg kontinuum van, és minden réteg csak egy apró, végtelenül kicsi fázislökést alkalmaz, a végeredmény azonos, megkülönböztethetetlen egy olyan hullámmal, amely egyszerűen lassabban halad, ugyanolyan frekvenciával rezeg fel és le, de a hullámhossza egy kicsit felgyűrődött.",
+  "translatedText": "Ahogy ezt újra és újra megteszem, megközelítve egy olyan helyzetet, ahol egy folytonos üveg van, és minden réteg csak egy apró, végtelenül kicsi fázislökést alkalmaz, a végeredmény azonos, megkülönböztethetetlen egy olyan hullámmal, amely egyszerűen lassabban halad, ugyanolyan frekvenciával rezeg fel és le, de a hullámhossza egy kicsit összenyomott.",
   "model": "DeepL",
   "time_range": [
    459.56,
@@ -487,7 +487,7 @@
  },
  {
   "input": "Instead of asking why does light slow down in glass, what we really need to ask is why does its interaction with a single layer of that glass cause a kickback to the phase of the wave?",
-  "translatedText": "Ahelyett, hogy azt kérdeznénk, miért lassul le a fény az üvegben, inkább azt kellene megkérdeznünk, hogy a fény kölcsönhatása az üveg egyetlen rétegével miért okoz visszarúgást a hullám fázisában?",
+  "translatedText": "Ahelyett, hogy azt kérdeznénk, miért lassul le a fény az üvegben, inkább azt kellene megkérdeznünk, hogy a fény kölcsönhatása az üveg egyetlen rétegével miért okoz visszalökést a hullám fázisában?",
   "model": "DeepL",
   "time_range": [
    484.56,
@@ -496,7 +496,7 @@
  },
  {
   "input": "And then when we want to get quantitative and understand exactly how much the light slows down, which is critical for understanding why it depends on color, instead the real question is how strong is that phase kick?",
-  "translatedText": "Aztán amikor kvantitatívvá akarjuk tenni, és pontosan meg akarjuk érteni, hogy mennyire lassul le a fény, ami kritikus fontos ahhoz, hogy megértsük, miért függ a színtől, akkor az igazi kérdés inkább az, hogy mennyire erős ez a fázislökés?",
+  "translatedText": "Aztán amikor kvantitatívvá akarjuk tenni, és pontosan meg akarjuk érteni, hogy mennyire lassul le a fény, ami kritikus ahhoz, hogy megértsük miért függ a színtől, akkor az igazi kérdés inkább az, hogy mennyire erős ez a fázislökés?",
   "model": "DeepL",
   "time_range": [
    496.2,
@@ -505,7 +505,7 @@
  },
  {
   "input": "From here it's helpful to turn back to the fundamentals of what light even is.",
-  "translatedText": "Innen hasznos visszatérni az alapokhoz, hogy mi is az a fény.",
+  "translatedText": "Innen hasznos visszatérni az alapokhoz, és megnézni mi is az a fény.",
   "model": "DeepL",
   "time_range": [
    509.14,
@@ -523,7 +523,7 @@
  },
  {
   "input": "As many of you know, light is a wave in the electromagnetic field, but here we'll just be drawing the electric field.",
-  "translatedText": "Mint azt sokan tudják, a fény az elektromágneses térben hullám, de itt csak az elektromos mezőt fogjuk megrajzolni.",
+  "translatedText": "Mint azt sokan tudják, a fény egy elektromágneses hullám a térben, de itt csak az elektromos mezőt fogjuk megrajzolni.",
   "model": "DeepL",
   "time_range": [
    518.84,
@@ -532,7 +532,7 @@
  },
  {
   "input": "The electric field associates each point in 3D space with a little 3-dimensional vector telling you what force would be applied to a hypothetical unit charge sitting at that point in space.",
-  "translatedText": "Az elektromos mező a 3D tér minden egyes pontjához egy kis 3 dimenziós vektort rendel, amely megmondja, hogy milyen erő hatna egy feltételezett egységnyi töltésre, amely a tér adott pontján ül.",
+  "translatedText": "Az elektromos mező a 3D tér minden egyes pontjához egy kis 3 dimenziós vektort rendel, amely megmondja, hogy milyen erő hatna egy feltételezett egységnyi töltésre, amely a tér adott pontján van.",
   "model": "DeepL",
   "time_range": [
    525.32,
@@ -550,7 +550,7 @@
  },
  {
   "input": "Whenever those ripples happen to reach another charged particle, they cause it to wiggle up and down, albeit a little more weakly than the initial wiggle, and that in turn causes its own propagations.",
-  "translatedText": "Amikor ezek a hullámok véletlenül elérnek egy másik töltött részecskét, akkor azt fel-le mozgásra késztetik, bár egy kicsit gyengébben, mint a kezdeti hullámzás, és ez viszont a saját terjedését okozza.",
+  "translatedText": "Amikor ezek a hullámok véletlenül elérnek egy másik töltött részecskét, akkor azt fel-le mozgásra késztetik, bár egy kicsit gyengébben, mint a kezdeti hullámzás; ez okozza a saját hullámgenerálását.",
   "model": "DeepL",
   "time_range": [
    553.74,
